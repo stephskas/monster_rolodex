@@ -40,6 +40,6 @@
     ]
   },
   "main": "index.js",
-  "repository": "https://github.com/stephskas/monster_rolodex.git",
+  // "repository": "https://github.com/stephskas/monster_rolodex.git",
   "license": "MIT"
 }
